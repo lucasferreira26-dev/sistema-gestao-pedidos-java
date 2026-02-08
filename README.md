@@ -78,6 +78,23 @@ Com validação de dados antes da aprovação.
 
 ---
 
+### 🖥 Demonstração
+- 📸 Menu Principal
+  
+  <img width="717" height="393" alt="menu" src="https://github.com/user-attachments/assets/96a0c7b3-db60-4a88-b663-b80f337facbd" />
+
+- 📸 Fluxo de Pedido
+
+  <img width="658" height="578" alt="criando_pedido" src="https://github.com/user-attachments/assets/ae05c2c8-a2f2-432f-981a-3a841b80520d" />
+
+  <img width="1582" height="723" alt="adicionando_itens_ao_pedido" src="https://github.com/user-attachments/assets/c4305762-0ed4-413f-a552-4feec9f994be" />
+
+- 📸 Pagamento
+
+  <img width="1687" height="835" alt="pagamento" src="https://github.com/user-attachments/assets/c6ec776d-3274-4eb8-85d1-8a1d965fc298" />
+
+  <img width="1768" height="444" alt="status_do_pedido_pago" src="https://github.com/user-attachments/assets/c7fe23b3-0bc9-4b36-a9ea-a359db4986bb" />
+
 ## 💡 Conceitos Aplicados
 
 - Injeção de dependência via construtor
