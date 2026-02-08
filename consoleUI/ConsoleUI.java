@@ -635,7 +635,7 @@ public class ConsoleUI {
 
             if (pagamento == TipoPagamento.BOLETO) {
                 scanner.nextLine();
-                System.out.println("Valor total do pedido: " + pedido.getValorTotal());
+                System.out.println("Valor total do pedido: R$" + pedido.getValorTotal());
                 System.out.print("Digite o código do boleto: ");
                 dados.setCodigoBoleto(scanner.nextLine());
             }
