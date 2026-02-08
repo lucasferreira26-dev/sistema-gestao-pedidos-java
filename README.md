@@ -1,6 +1,6 @@
 # 🛒 Sistema de Gestão de Pedidos (Console)
 
-Sistema de gestão de pedidos estilo e-commerce desenvolvido em **Java**, utilizando arquitetura em camadas e princípios de orientação a objetos.
+Sistema de gestão de pedidos estilo e-commerce desenvolvido em **Java**, utilizando arquitetura em camadas e princípios de orientação a objetos(projeto ainda em estágio inicial).
 
 Projeto desenvolvido para fins de estudo e aprimoramento de conceitos como:
 
