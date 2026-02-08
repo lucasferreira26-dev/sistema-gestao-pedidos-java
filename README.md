@@ -95,6 +95,8 @@ Com validação de dados antes da aprovação.
 
   <img width="1768" height="444" alt="status_do_pedido_pago" src="https://github.com/user-attachments/assets/c7fe23b3-0bc9-4b36-a9ea-a359db4986bb" />
 
+---
+
 ## 💡 Conceitos Aplicados
 
 - Injeção de dependência via construtor
@@ -118,6 +120,22 @@ Com validação de dados antes da aprovação.
 ## 📚 Objetivo do Projeto
 
 Projeto criado com foco em aprendizado e prática de modelagem de sistemas backend em Java.
+
+---
+
+## 🚀 Possíveis Melhorias Futuras
+
+- Persistência em banco de dados
+
+- Interface gráfica (JavaFX ou Web)
+
+- Testes automatizados (JUnit)
+
+- Aplicação do padrão Factory para pagamentos
+
+- Melhor tratamento de estados de pedido
+
+- Logs estruturados
 
 ---
 
